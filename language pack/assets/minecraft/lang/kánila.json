@@ -1,0 +1,29 @@
+{
+  // 木材系
+  "block.minecraft.oak_log": "ohá lím",
+  "block.minecraft.spruce_log": "épul lím",
+  "block.minecraft.birch_log": "késim lím ",
+  "block.minecraft.jungle_log": "yüp lím ",
+  "block.minecraft.acacia_log": "apésia lím ",
+  "block.minecraft.dark_oak_log": "kèsanika lím",
+
+  // 鉱石系
+  "block.minecraft.coal_ore": " chvâ atr",
+  "block.minecraft.iron_ore": "kènzez atr",
+  "block.minecraft.copper_ore": " öpam atr",
+  "block.minecraft.gold_ore": "désinn atr",
+  "block.minecraft.redstone_ore": "mér atr",
+  "block.minecraft.lapis_ore": "ör atr",
+  "block.minecraft.diamond_ore": "élimtevá atr",
+  "block.minecraft.emerald_ore": "répis atr",
+  "block.minecraft.nether_quartz_ore": "sézar Imaskáyl atr",
+  "block.minecraft.deepslate": "sléf atr",
+
+  // 武器系
+  "item.minecraft.wooden_sword": "lüz s'hás",
+  "item.minecraft.stone_sword": "atéyl s'hás ",
+  "item.minecraft.iron_sword": "kènzez s'hás",
+  "item.minecraft.golden_sword": "désinn s'hás",
+  "item.minecraft.diamond_sword": "élimtevá s'hás",
+  "item.minecraft.netherite_sword": "ozârkaite s'hás"
+}
